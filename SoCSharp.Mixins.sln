@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoCSharp.Mixins", "src\SoCSharp.Mixins\SoCSharp.Mixins.csproj", "{623D415B-1222-44D4-9454-B64EC6E55B77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{528397BB-41CB-4704-9B22-D0DB088F2F02}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+	LICENSE = LICENSE
+	README.md = README.md
+EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{151C79D1-F096-474C-866F-FA157953DC5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E94806AF-F588-4DF2-BCE2-ECA9BF553D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623D415B-1222-44D4-9454-B64EC6E55B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623D415B-1222-44D4-9454-B64EC6E55B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623D415B-1222-44D4-9454-B64EC6E55B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623D415B-1222-44D4-9454-B64EC6E55B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{623D415B-1222-44D4-9454-B64EC6E55B77} = {151C79D1-F096-474C-866F-FA157953DC5F}
+	EndGlobalSection
+EndGlobal
